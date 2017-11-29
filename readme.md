@@ -3,9 +3,9 @@
 
 ## Principales comandos
 
-| **Contexto** | **Accion** | **Comando** | -
-| :--- | :---: | :---| -
-| archivo | crear/abrir archivo | vi [nombreArchivo] | -
+| **Contexto** | **Accion** | **Comando** |
+| :--- | :---: | :---|
+| archivo | crear/abrir archivo | vi [nombreArchivo] |
 | edicion | modo insercion | i |
 
 
