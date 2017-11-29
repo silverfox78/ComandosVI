@@ -3,8 +3,10 @@
 
 ## Principales comandos
 
-archivo | crear/abrir archivo | vi [nombreArchivo]
-edicion | modo insercion | i
+| **Contexto** | **Accion** | **Comando** | -
+| :--- | :---: | :---| -
+| archivo | crear/abrir archivo | vi [nombreArchivo] | -
+| edicion | modo insercion | i |
 
 
 * Para crear un archivo
