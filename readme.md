@@ -6,6 +6,8 @@
 | **Contexto** | **Accion** | **Comando** |
 | :--- | :---: | :---|
 | archivo | crear/abrir archivo | vi [nombreArchivo] |
+| archivo | Grabar y salir | ESC + :wq |
+| archivo | Salir sin Guardar | ESC + :q! |
 | edicion | modo insercion | i |
 | edicion | Mueve el cursor una línea hacia abajo (igual que la flecha hacia abajo) | j |
 | edicion | Mueve el cursor una línea hacia arriba (igual que la flecha hacia arriba) | k |
